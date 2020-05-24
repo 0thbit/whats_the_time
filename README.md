@@ -6,3 +6,5 @@ This is a simple world time app created as an attempt to learn Flutter based on 
 
   - Displays current time for different preset locations fetched from WorldTime API.
   - Day v/s Night screen.
+  
+![](worldtime.gif)
